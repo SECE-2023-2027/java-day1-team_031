@@ -1,7 +1,6 @@
  import java.util.Scanner;
 public class Prob_11 {
     public static void main(String[] args) {
-        // Create scanner to take input from the user
         Scanner scanner = new Scanner(System.in);
         
         System.out.println("Enter the input string: ");
